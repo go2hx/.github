@@ -2,7 +2,7 @@
 
 # Working Haxelibs (precompiled)
 
-## [regexp2](https://github.com/go2hx/regexp2) [[api]](https://go2hx.github.io/regexp2/api) [[examples]](https://github.com/go2hx/regexp2/blob/master/samples/) ( original [[go library]](https://github.com/dlclark/regexp2) )
+## [regexp2](https://github.com/go2hx/regexp2) [[api]](https://go2hx.github.io/regexp2/api/github_dot_com/dlclark/regexp2/Regexp2.html) [[examples]](https://github.com/go2hx/regexp2/blob/master/Example.hx) ( original [[go library]](https://github.com/dlclark/regexp2) )
 A full-featured regex engine, based on the .NET engine 
 ```sh
 haxelib git go2hx_regexp2 https://github.com/go2hx/regexp2
