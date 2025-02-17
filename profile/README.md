@@ -1,8 +1,13 @@
-*Work in progress, check back later!*
-
 # Working Haxelibs (precompiled)
 
-## [regexp2](https://github.com/go2hx/regexp2) [[api]](https://go2hx.github.io/regexp2/api/github_dot_com/dlclark/regexp2/Regexp2.html) [[examples]](https://github.com/go2hx/regexp2/blob/master/Example.hx) ( original [[go library]](https://github.com/dlclark/regexp2) )
+## [harmonica](https://github.com/go2hx/harmonica) [[example]](https://github.com/go2hx/harmonica/blob/master/Example.hx) ( original [[go library]](https://github.com/charmbracelet/harmonica) )
+An agnostic physics based animation library
+```sh
+haxelib git go2hx_harmonica https://github.com/go2hx/harmonica
+```
+![example](https://github.com/go2hx/harmonica/blob/master/example.gif)
+
+## [regexp2](https://github.com/go2hx/regexp2) [[api]](https://go2hx.github.io/regexp2/api/github_dot_com/dlclark/regexp2/Regexp2.html) [[example]](https://github.com/go2hx/regexp2/blob/master/Example.hx) ( original [[go library]](https://github.com/dlclark/regexp2) )
 A full-featured regex engine, based on the .NET engine 
 ```sh
 haxelib git go2hx_regexp2 https://github.com/go2hx/regexp2
